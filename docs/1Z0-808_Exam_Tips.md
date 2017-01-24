@@ -10,3 +10,6 @@
 
 * Classes and Interfaces imported using the import statement are available to all the classes and interfaces in the same Java source code file
 
+* Command line parameters or Command line values are values that are passed to main method from the command line.
+
+* 

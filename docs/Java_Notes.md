@@ -1,10 +1,14 @@
 ### Class
 
-	A class is a design from which object is created. It is used to specify the attributes and behavior of an object. The attributes of an object are implemented using variables. The behavior is implemented using methods.
+	A class is a design from which object is created.
+	It is used to specify the attributes and behavior of an object.
+	The attributes of an object are implemented using variables.
+	The behavior is implemented using methods.
 
 ### Instance Variable
 
-	Instance variables are used to store the state of an object. Each object has its own copy of instance variables.
+	Instance variables are used to store the state of an object.
+	Each object has its own copy of instance variables.
 
 ### Static Variable
 	
@@ -20,7 +24,8 @@
 
 ### Constructor
 
-	Constructor is used to create and initialize the objects of a class. A Class can define multiple constructors that accept different sets of method parameters
+	Constructor is used to create and initialize the objects of a class.
+	A Class can define multiple constructors that accept different sets of method parameters
 
 
 ### Interface
