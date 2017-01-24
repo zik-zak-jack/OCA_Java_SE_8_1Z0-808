@@ -6,4 +6,7 @@
 
 * More than one public class or interface can not be defined in a source file
 
-* 
+* Classes and Interfaces defined in the same Java source code file can not be defined in separate packages.
+
+* Classes and Interfaces imported using the import statement are available to all the classes and interfaces in the same Java source code file
+
