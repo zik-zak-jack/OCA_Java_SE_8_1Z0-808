@@ -12,4 +12,12 @@
 
 * Command line parameters or Command line values are values that are passed to main method from the command line.
 
-* 
+* All members from java.lang package is implicitly available without an import statement
+
+* Members of named package can not access classes and packages defined in the default package
+
+* Derived class can inherit and access protected members of its base class, regardless of the package in which its defined.
+
+* Derived class in a separate package can not access protected members of its base class using reference variables.
+
+* Watch out for invalid combinations of a java entity and an access modifier. Such code wont compile.
