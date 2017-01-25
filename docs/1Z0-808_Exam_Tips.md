@@ -21,3 +21,15 @@
 * Derived class in a separate package can not access protected members of its base class using reference variables.
 
 * Watch out for invalid combinations of a java entity and an access modifier. Such code wont compile.
+
+* An abstract class may or may not define an abstract method. But a concrete class can not define an abstract method.
+
+* A method with an empty body is not an abstract method
+
+* abstract modifier can not be applied to variables
+
+* Static members can be accessed using object reference as well as by class names. Since static members belong to class and shared by all objects, its better to access by Class name. static and final modifiers are together used to define constants
+
+* Static methods and static variables can not access instance members of a class.
+
+* Static methods and static variables can be accessed using null references
