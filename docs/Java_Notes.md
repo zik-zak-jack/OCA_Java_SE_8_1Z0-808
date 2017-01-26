@@ -2,39 +2,50 @@
 
 #### Object Orientation
 
-	
+	Java emulates real-life object definition and behavior by defining classes, interfaces or enums.
 
 #### Abstraction
 
-	
+	Java lets you abstract objects with only required properties and behavior.
 
 #### Encapsulation
 
-	
+	Java classes encapsulate the state and behavior of an object.
+	The state and behavior is protected from unwanted access and manipulation.
 
 #### Inheritance
 
-	
+	Java classes can inherit other classes and implement interfaces.
+	Interfaces can also inherit other interfaces.
 
 #### Polymorphism
 
-	
+	Exhibiting different forms is known as Polymorphism. 
+	Java enables instances of its classes to exhibit multiple behaviors for the same method calls.
 
 #### Type Safety
 
-	
+	Varaibles must be desclared with the type before using it.
+	Compile time checks ensure that variables are not assigned value of wrong type.
 
 #### Automatic Memory Management
 
-	
+	Garbage collection is used for automatic memory management
+	They reclaim memory from objects that are no longer in use.
+	This also prevents memory leaks.
 
 #### MultiThreading and Concurrency
 
-	
+	Java has support for mutithreading and concurrency through the classes and interfaces defined in the core API.
 
 #### Security
 
-	
+* Java has multiple built-in security features to control access to the resources and program execution.
+* It provides secure class loading and verification ensures execution of legitimate java code.
+* It provides API for cryptography and public key infrastructure
+* Java applications executing under Security manager controls access to resources using policy file.
+* Java enables you to define digital signatures, certificates, key-stores to secure code and file exchanges.
+* Signed code is distributed for execution
 
 ### Class
 
