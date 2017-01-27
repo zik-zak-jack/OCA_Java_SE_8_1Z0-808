@@ -1,3 +1,5 @@
+## Java Basics
+
 ### Features of Java
 
 #### Object Orientation
@@ -173,4 +175,22 @@
 * volatile variable's value can be safely modified by different threads
 * This modifier can not be used with classes, interfaces or methods 
 
+## Working with Java Data Types
+
+### Primitive Data Types
+
+* Numeric
+** Signed
+*** Integers
+**** byte
+**** short
+****int
+**** long
+*** Floating Point
+**** float
+****double
+** Unsigned
+*** char
+* Boolean
+** boolean
 
