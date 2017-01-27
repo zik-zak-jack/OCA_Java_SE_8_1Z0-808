@@ -180,17 +180,16 @@
 ### Primitive Data Types
 
 * Numeric
-** Signed
-*** Integers
-**** byte
-**** short
-****int
-**** long
-*** Floating Point
-**** float
-****double
-** Unsigned
-*** char
-* Boolean
-** boolean
+  * Signed
+    * Integers
+      * byte
+      * short
+      * int
+      * long
+    * Floating Point
+      * float
+      * double
+  * Unsigned
+    * char
+* boolean
 
